@@ -15,10 +15,10 @@ Puoi scaricare il codice sorgente direttamente da GitHub:
 
 - **Code → Download ZIP**
 - oppure clona il repository:
-- git clone https://github.com/Nhor2/PaintRobot.git
+- git clone https://github.com/Nhor2/CRCAA
 
 ## 🏷️ Versioni
 
 - **v2.0** – Prima release pubblica (codice sorgente)
  
->>>>>>> 51041191000b9930ab1a5435ec31008c1411d9086fed90a3fce317ebc542e92fceadcacgcccbfj
+>>>>>>> 97e456b031af1e7836bd09ba6045e052d8b5d194f873987ba780b77f6cc64f04ceadcacgcccebd
