@@ -1,0 +1,13 @@
+C:\Users\lordm\source\repos2\CRCAA\bin\Debug\CRCAA.exe.config
+C:\Users\lordm\source\repos2\CRCAA\bin\Debug\CRCAA.exe
+C:\Users\lordm\source\repos2\CRCAA\bin\Debug\CRCAA.pdb
+C:\Users\lordm\source\repos2\CRCAA\bin\Debug\CRCAA.xml
+C:\Users\lordm\source\repos2\CRCAA\obj\Debug\CRCAA.vbproj.AssemblyReference.cache
+C:\Users\lordm\source\repos2\CRCAA\obj\Debug\CRCAA.Form1.resources
+C:\Users\lordm\source\repos2\CRCAA\obj\Debug\CRCAA.Resources.resources
+C:\Users\lordm\source\repos2\CRCAA\obj\Debug\CRCAA.vbproj.GenerateResource.cache
+C:\Users\lordm\source\repos2\CRCAA\obj\Debug\CRCAA.vbproj.CoreCompileInputs.cache
+C:\Users\lordm\source\repos2\CRCAA\obj\Debug\CRCAA.exe
+C:\Users\lordm\source\repos2\CRCAA\obj\Debug\CRCAA.xml
+C:\Users\lordm\source\repos2\CRCAA\obj\Debug\CRCAA.pdb
+C:\Users\lordm\source\repos2\CRCAA\obj\Debug\CRCAA.exe.config
